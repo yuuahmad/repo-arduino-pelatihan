@@ -2,6 +2,8 @@
 #define BLYNK_TEMPLATE_ID "TMPLXtg6ltzI"
 #define BLYNK_DEVICE_NAME "Test"
 #include <BlynkSimpleEsp32.h>
+#include <BlynkSimpleEsp8266.h>
+#include <ESP8266WiFi.h>
 
 char auth[] = "1jIajShg30JO-QQZmlWf1NjdH5FNi2wW";
 char ssid[] = "KONTRAKAN UYE";
